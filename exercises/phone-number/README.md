@@ -37,7 +37,9 @@ bats phone_number_test.sh
 
 After the first test(s) pass, continue by commenting out or removing the `skip` annotations prepending other tests.
 
-## Source
+```
+bats phone_number_test.sh
+```## Source
 
 Event Manager by JumpstartLab [http://tutorials.jumpstartlab.com/projects/eventmanager.html](http://tutorials.jumpstartlab.com/projects/eventmanager.html)
 

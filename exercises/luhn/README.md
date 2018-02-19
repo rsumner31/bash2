@@ -73,7 +73,9 @@ bats luhn_test.sh
 
 After the first test(s) pass, continue by commenting out or removing the `skip` annotations prepending other tests.
 
-## Source
+```
+bats luhn_test.sh
+```## Source
 
 The Luhn Algorithm on Wikipedia [http://en.wikipedia.org/wiki/Luhn_algorithm](http://en.wikipedia.org/wiki/Luhn_algorithm)
 

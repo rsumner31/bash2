@@ -16,7 +16,9 @@ bats acronym_test.sh
 
 After the first test(s) pass, continue by commenting out or removing the `skip` annotations prepending other tests.
 
-## Source
+```
+bats acronym_test.sh
+```## Source
 
 Julien Vanier [https://github.com/monkbroc](https://github.com/monkbroc)
 

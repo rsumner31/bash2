@@ -22,7 +22,9 @@ bats bob_test.sh
 
 After the first test(s) pass, continue by commenting out or removing the `skip` annotations prepending other tests.
 
-## Source
+```
+bats bob_test.sh
+```## Source
 
 Inspired by the 'Deaf Grandma' exercise in Chris Pine's Learn to Program tutorial. [http://pine.fm/LearnToProgram/?Chapter=06](http://pine.fm/LearnToProgram/?Chapter=06)
 
