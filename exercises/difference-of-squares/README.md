@@ -27,7 +27,9 @@ Run
 Run the tests with:
 >>>>>>>-1cbab7b
 bats difference_of_squares_test.sh
-```## Source
+```
+
+After the first test(s) pass, continue by commenting out or removing the `skip` annotations prepending other tests.## Source
 
 Problem 6 at Project Euler [http://projecteuler.net/problem=6](http://projecteuler.net/problem=6)
 

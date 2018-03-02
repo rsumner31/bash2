@@ -37,7 +37,9 @@ After the first test(s) pass, continue by commenting out or removing the `skip` 
 
 ```
 bats leap_test.sh
-```## Source
+```
+
+After the first test(s) pass, continue by commenting out or removing the `skip` annotations prepending other tests.## Source
 
 JavaRanch Cattle Drive, exercise 3 [http://www.javaranch.com/leap.jsp](http://www.javaranch.com/leap.jsp)
 

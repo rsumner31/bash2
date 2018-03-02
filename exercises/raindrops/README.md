@@ -28,7 +28,9 @@ After the first test(s) pass, continue by commenting out or removing the `skip` 
 
 ```
 bats raindrops_test.sh
-```## Source
+```
+
+After the first test(s) pass, continue by commenting out or removing the `skip` annotations prepending other tests.## Source
 
 A variation on a famous interview question intended to weed out potential candidates. [http://jumpstartlab.com](http://jumpstartlab.com)
 

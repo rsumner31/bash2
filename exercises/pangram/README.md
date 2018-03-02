@@ -19,7 +19,9 @@ After the first test(s) pass, continue by commenting out or removing the `skip` 
 
 ```
 bats pangram_test.sh
-```## Source
+```
+
+After the first test(s) pass, continue by commenting out or removing the `skip` annotations prepending other tests.## Source
 
 Wikipedia [https://en.wikipedia.org/wiki/Pangram](https://en.wikipedia.org/wiki/Pangram)
 

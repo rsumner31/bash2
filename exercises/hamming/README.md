@@ -46,7 +46,9 @@ After the first test(s) pass, continue by commenting out or removing the `skip` 
 
 ```
 bats hamming_test.sh
-```## Source
+```
+
+After the first test(s) pass, continue by commenting out or removing the `skip` annotations prepending other tests.## Source
 
 The Calculating Point Mutations problem at Rosalind [http://rosalind.info/problems/hamm/](http://rosalind.info/problems/hamm/)
 
