@@ -37,11 +37,7 @@ bats phone_number_test.sh
 
 After the first test(s) pass, continue by commenting out or removing the `skip` annotations prepending other tests.
 
-```
-bats phone_number_test.sh
-```
-
-After the first test(s) pass, continue by commenting out or removing the `skip` annotations prepending other tests.## Source
+## Source
 
 Event Manager by JumpstartLab [http://tutorials.jumpstartlab.com/projects/eventmanager.html](http://tutorials.jumpstartlab.com/projects/eventmanager.html)
 

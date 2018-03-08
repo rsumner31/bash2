@@ -5,17 +5,6 @@
     {
       "core": true,
       "difficulty": 1,
-      "slug": "grains",
-      "topics": [
-        "control_flow_conditionals",
-        "input_validation",
-        "mathematics"
-      ],
-      "uuid": "c9d36155-10e8-4a75-a732-3c43a68910eb"
-    },
-    {
-      "core": true,
-      "difficulty": 1,
       "slug": "hello-world",
       "topics": [
         "stdout",
@@ -35,7 +24,7 @@
       "uuid": "2b6d4faa-1909-422a-8eac-1682be3f1b9e"
     },
     {
-      "core": true,
+      "core": false,
       "difficulty": 1,
       "slug": "two-fer",
       "topics": [
@@ -52,13 +41,11 @@
       "difficulty": 2,
       "slug": "grains",
       "topics": [
-        "boolean_logic",
         "control_flow_conditionals",
         "input_validation",
-        "stdout",
-        "strings"
+        "mathematics"
       ],
-      "uuid": "b2b4ee35-108f-45ce-b294-c10d332e5579"
+      "uuid": "c9d36155-10e8-4a75-a732-3c43a68910eb"
     },
     {
       "core": false,
@@ -87,7 +74,6 @@
       "difficulty": 2,
       "slug": "difference-of-squares",
       "topics": [
-        "boolean_logic",
         "control_flow_conditionals",
         "control_flow_loops",
         "mathematics"
@@ -131,15 +117,14 @@
       "uuid": "e24451fd-761d-4d20-81d9-e470486ec44a"
     },
     {
-      "core": false,
+      "core": true,
       "difficulty": 2,
-      "slug": "rna-transcription",
+      "slug": "pangram",
       "topics": [
         "string_transformation",
         "strings"
       ],
-      "unlocked_by": "error-handling",
-      "uuid": "8a62e53e-59c2-42d5-96e5-a0f8f9b5d177"
+      "uuid": "a7e2018a-c454-4fe0-ad35-229304306648"
     },
     {
       "core": false,

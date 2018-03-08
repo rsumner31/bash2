@@ -10,6 +10,7 @@ is rather programming language specific you'll have to refer to the tests
 for your track to see what's exactly required.
 
 
+Run the tests with:
 
 ```bash
 bats error_handling_test.sh
@@ -18,15 +19,5 @@ bats error_handling_test.sh
 After the first test(s) pass, continue by commenting out or removing the `skip` annotations prepending other tests.
 
 
-```bash
-bats error_handling_test.sh
-```
-
-After the first test(s) pass, continue by commenting out or removing the `skip` annotations prepending other tests.
-
-
-```
-bats error_handling_test.sh
-```
 ## Submitting Incomplete Solutions
 It's possible to submit an incomplete solution so you can see how others have completed the exercise.

@@ -28,12 +28,6 @@ Run the tests with:
 ```bash
 bats triangle_test.sh
 ```
-bats triangle_test.sh
-```
-
-After the first test(s) pass, continue by commenting out or removing the `skip` annotations prepending other tests.
-
-## Source
 
 After the first test(s) pass, continue by commenting out or removing the `skip` annotations prepending other tests.
 
